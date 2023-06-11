@@ -1,7 +1,7 @@
 const container = document.querySelector(".container");
 const refreshBtn = document.querySelector(".pyinc_gen");
 
-const maxPaletteBoxes = 35;
+const maxPaletteBoxes = 36;
 
 const generatepalette = () => {
     container.innerHTML = "";
